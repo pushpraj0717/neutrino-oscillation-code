@@ -59,14 +59,9 @@ Or open it directly in Google Colab.
 .
 ├── Investigating_Neutrino_Oscillations_Through_Numerical_Simulation.ipynb
 ├── README.md
-├── requirements.txt      # numpy, scipy, matplotlib
-└── figures/              # optional: export key plots here
 ```
 
 ## Tech
 
 Python · NumPy · SciPy · Matplotlib · Jupyter
 
-## License
-
-MIT (or your choice) – add a `LICENSE` file.
